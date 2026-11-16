@@ -69,4 +69,8 @@ A task management app with an Angular Material interface and an Express API back
 
 ## ✦ GitHub Stats
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=launav&theme=rose&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+</div>
