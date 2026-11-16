@@ -1,25 +1,27 @@
-![Cabecera animada de @launav sobre un paisaje ilustrado por Laura Navarro](./launav-redondeado.gif)
+![Animated @launav banner over a landscape illustrated by Laura Navarro](./launav-redondeado.gif)
 
-# Hola, soy Laura Navarro 👋
+# Hi, I’m Laura Navarro 👋
 
-Desarrollo aplicaciones web con **Angular** y **TypeScript**, y las conecto con APIs en **Node.js** y **Express**. Aquí puedes explorar mis proyectos de reservas, eventos y gestión de tareas.
+I build web applications with **Angular** and **TypeScript** and connect them to APIs built with **Node.js** and **Express**. My projects cover hotel bookings, events, and task management.
 
-## Proyectos destacados
+![Tech Stack: Angular, TypeScript, Angular Material, Node.js, Express, Socket.IO, PostgreSQL, MySQL, Swagger](./tecnologias.svg)
+
+## Featured Projects
 
 ### 🛎️ Roomify
 
-Aplicación de reservas hoteleras con una interfaz en Angular Material y una API REST documentada con Swagger. Los datos se guardan en PostgreSQL.
+A hotel booking app with an Angular Material interface and a REST API documented with Swagger. It uses PostgreSQL to store booking data.
 
-[Ver interfaz](https://github.com/launav/booking-project) · [Ver API](https://github.com/launav/booking-project-api)
+[Frontend](https://github.com/launav/booking-project) · [API](https://github.com/launav/booking-project-api)
 
 ### 🗓️ Events Manager
 
-Gestor de eventos con Angular y Socket.IO para la comunicación en tiempo real entre la interfaz y el servidor.
+An event management app built with Angular and Socket.IO for real-time communication between the frontend and server.
 
-[Ver interfaz](https://github.com/launav/events-manager) · [Ver API](https://github.com/launav/events-manager-api)
+[Frontend](https://github.com/launav/events-manager) · [API](https://github.com/launav/events-manager-api)
 
 ### ✓ Task Manager
 
-Gestor de tareas con Angular Material y una API en Express conectada a MySQL.
+A task management app with an Angular Material interface and an Express API backed by MySQL.
 
-[Ver interfaz](https://github.com/launav/task-manager) · [Ver API](https://github.com/launav/task-manager-api)
+[Frontend](https://github.com/launav/task-manager) · [API](https://github.com/launav/task-manager-api)
